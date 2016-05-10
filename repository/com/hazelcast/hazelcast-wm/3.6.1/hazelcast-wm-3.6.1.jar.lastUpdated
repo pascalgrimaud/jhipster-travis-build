@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 10 06:59:22 CEST 2016
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.hazelcast\:hazelcast-wm\:jar\:3.6.1 from/to spring-milestones (http\://repo.spring.io/milestone)\: repo.spring.io
+https\://repo.maven.apache.org/maven2/.lastUpdated=1462856362566
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1462856349246
